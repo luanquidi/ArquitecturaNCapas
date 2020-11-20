@@ -1,0 +1,14 @@
+C:\Proyectos\Em.ArquitecturaNCapas\trunk\Fuentes\Em.ArquitecturaNCapas.Aplicacion\bin\Debug\netstandard2.0\Em.ArquitecturaNCapas.Aplicacion.deps.json
+C:\Proyectos\Em.ArquitecturaNCapas\trunk\Fuentes\Em.ArquitecturaNCapas.Aplicacion\bin\Debug\netstandard2.0\Em.ArquitecturaNCapas.Aplicacion.dll
+C:\Proyectos\Em.ArquitecturaNCapas\trunk\Fuentes\Em.ArquitecturaNCapas.Aplicacion\bin\Debug\netstandard2.0\Em.ArquitecturaNCapas.Aplicacion.pdb
+C:\Proyectos\Em.ArquitecturaNCapas\trunk\Fuentes\Em.ArquitecturaNCapas.Aplicacion\bin\Debug\netstandard2.0\Em.ArquitecturaNCapas.Dominio.Core.dll
+C:\Proyectos\Em.ArquitecturaNCapas\trunk\Fuentes\Em.ArquitecturaNCapas.Aplicacion\bin\Debug\netstandard2.0\Em.ArquitecturaNCapas.Transversal.dll
+C:\Proyectos\Em.ArquitecturaNCapas\trunk\Fuentes\Em.ArquitecturaNCapas.Aplicacion\bin\Debug\netstandard2.0\Em.ArquitecturaNCapas.Dominio.Core.pdb
+C:\Proyectos\Em.ArquitecturaNCapas\trunk\Fuentes\Em.ArquitecturaNCapas.Aplicacion\bin\Debug\netstandard2.0\Em.ArquitecturaNCapas.Transversal.pdb
+C:\Proyectos\Em.ArquitecturaNCapas\trunk\Fuentes\Em.ArquitecturaNCapas.Aplicacion\obj\Debug\netstandard2.0\Em.ArquitecturaNCapas.Aplicacion.csprojAssemblyReference.cache
+C:\Proyectos\Em.ArquitecturaNCapas\trunk\Fuentes\Em.ArquitecturaNCapas.Aplicacion\obj\Debug\netstandard2.0\Em.ArquitecturaNCapas.Aplicacion.csproj.CoreCompileInputs.cache
+C:\Proyectos\Em.ArquitecturaNCapas\trunk\Fuentes\Em.ArquitecturaNCapas.Aplicacion\obj\Debug\netstandard2.0\Em.ArquitecturaNCapas.Aplicacion.AssemblyInfoInputs.cache
+C:\Proyectos\Em.ArquitecturaNCapas\trunk\Fuentes\Em.ArquitecturaNCapas.Aplicacion\obj\Debug\netstandard2.0\Em.ArquitecturaNCapas.Aplicacion.AssemblyInfo.cs
+C:\Proyectos\Em.ArquitecturaNCapas\trunk\Fuentes\Em.ArquitecturaNCapas.Aplicacion\obj\Debug\netstandard2.0\Em.ArquitecturaNCapas.Aplicacion.csproj.CopyComplete
+C:\Proyectos\Em.ArquitecturaNCapas\trunk\Fuentes\Em.ArquitecturaNCapas.Aplicacion\obj\Debug\netstandard2.0\Em.ArquitecturaNCapas.Aplicacion.dll
+C:\Proyectos\Em.ArquitecturaNCapas\trunk\Fuentes\Em.ArquitecturaNCapas.Aplicacion\obj\Debug\netstandard2.0\Em.ArquitecturaNCapas.Aplicacion.pdb

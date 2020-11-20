@@ -1,0 +1,16 @@
+C:\Proyectos\Em.ArquitecturaNCapas\trunk\Fuentes\Em.ArquitecturaNCapas.Infraestructura\bin\Debug\netstandard2.0\Em.ArquitecturaNCapas.Infraestructura.deps.json
+C:\Proyectos\Em.ArquitecturaNCapas\trunk\Fuentes\Em.ArquitecturaNCapas.Infraestructura\bin\Debug\netstandard2.0\Em.ArquitecturaNCapas.Infraestructura.dll
+C:\Proyectos\Em.ArquitecturaNCapas\trunk\Fuentes\Em.ArquitecturaNCapas.Infraestructura\bin\Debug\netstandard2.0\Em.ArquitecturaNCapas.Infraestructura.pdb
+C:\Proyectos\Em.ArquitecturaNCapas\trunk\Fuentes\Em.ArquitecturaNCapas.Infraestructura\bin\Debug\netstandard2.0\Em.ArquitecturaNCapas.Aplicacion.dll
+C:\Proyectos\Em.ArquitecturaNCapas\trunk\Fuentes\Em.ArquitecturaNCapas.Infraestructura\bin\Debug\netstandard2.0\Em.ArquitecturaNCapas.Dominio.Core.dll
+C:\Proyectos\Em.ArquitecturaNCapas\trunk\Fuentes\Em.ArquitecturaNCapas.Infraestructura\bin\Debug\netstandard2.0\Em.ArquitecturaNCapas.Transversal.dll
+C:\Proyectos\Em.ArquitecturaNCapas\trunk\Fuentes\Em.ArquitecturaNCapas.Infraestructura\bin\Debug\netstandard2.0\Em.ArquitecturaNCapas.Aplicacion.pdb
+C:\Proyectos\Em.ArquitecturaNCapas\trunk\Fuentes\Em.ArquitecturaNCapas.Infraestructura\bin\Debug\netstandard2.0\Em.ArquitecturaNCapas.Dominio.Core.pdb
+C:\Proyectos\Em.ArquitecturaNCapas\trunk\Fuentes\Em.ArquitecturaNCapas.Infraestructura\bin\Debug\netstandard2.0\Em.ArquitecturaNCapas.Transversal.pdb
+C:\Proyectos\Em.ArquitecturaNCapas\trunk\Fuentes\Em.ArquitecturaNCapas.Infraestructura\obj\Debug\netstandard2.0\Em.ArquitecturaNCapas.Infraestructura.csprojAssemblyReference.cache
+C:\Proyectos\Em.ArquitecturaNCapas\trunk\Fuentes\Em.ArquitecturaNCapas.Infraestructura\obj\Debug\netstandard2.0\Em.ArquitecturaNCapas.Infraestructura.csproj.CoreCompileInputs.cache
+C:\Proyectos\Em.ArquitecturaNCapas\trunk\Fuentes\Em.ArquitecturaNCapas.Infraestructura\obj\Debug\netstandard2.0\Em.ArquitecturaNCapas.Infraestructura.AssemblyInfoInputs.cache
+C:\Proyectos\Em.ArquitecturaNCapas\trunk\Fuentes\Em.ArquitecturaNCapas.Infraestructura\obj\Debug\netstandard2.0\Em.ArquitecturaNCapas.Infraestructura.AssemblyInfo.cs
+C:\Proyectos\Em.ArquitecturaNCapas\trunk\Fuentes\Em.ArquitecturaNCapas.Infraestructura\obj\Debug\netstandard2.0\Em.ArquitecturaNCapas.Infraestructura.csproj.CopyComplete
+C:\Proyectos\Em.ArquitecturaNCapas\trunk\Fuentes\Em.ArquitecturaNCapas.Infraestructura\obj\Debug\netstandard2.0\Em.ArquitecturaNCapas.Infraestructura.dll
+C:\Proyectos\Em.ArquitecturaNCapas\trunk\Fuentes\Em.ArquitecturaNCapas.Infraestructura\obj\Debug\netstandard2.0\Em.ArquitecturaNCapas.Infraestructura.pdb
